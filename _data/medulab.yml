@@ -1,0 +1,61 @@
+# Informazioni gruppo
+group:
+  name: "MEduLab"
+  subtitle: "Gruppo di Ricerca Musicale ed Educativa"
+  description: "Gruppo di lavoro informale costituito da musicisti diplomati in Conservatorio che dal 2023 collaborano nella progettazione e realizzazione di percorsi di educazione musicale innovativi."
+  founded: 2023
+  location: "Roma"
+
+# Contatti
+contact:
+  email: "info@medulab.it"
+  phone: "+39 346 123 4567"
+  website: ""
+
+# Esperienze del gruppo
+experiences:
+  - school: "I.C. Visconti"
+    years: "2023-2024"
+    project: "Laboratorio di musica d'insieme per scuola secondaria di I grado"
+    participants: 32
+    
+  - school: 'Scuola dell\'Infanzia "Il Girasole"'
+    years: "2024"
+    project: "Percorso di esplorazione sonora"
+    participants: 28
+    
+  - school: "Scuola Media Dino Buzzati"
+    years: "2024-2025"
+    project: "Progetto di educazione civica attraverso la musica"
+    participants: 45
+
+# Team membri
+team:
+  - name: "Pietro Barale"
+    role: "Operatore"
+    qualification: "Diplomato in Musica Applicata alle Immagini"
+    institution: "Conservatorio di Santa Cecilia, Roma"
+    specialization: "Sensibilità specifica per il rapporto tra musica e immagine, sviluppo di percorsi creativi che integrano narrazione sonora e costruzione di trame musicali."
+    
+  - name: "Giulio Romano De Mattia"
+    role: "Operatore"  
+    qualification: "Diplomato in Musica Elettronica"
+    institution: "Conservatorio di Santa Cecilia, Roma"
+    specialization: "Competenze avanzate in tecnologie musicali digitali, live electronics e composizione elettroacustica."
+    
+  - name: "Marco Di Gasbarro"
+    role: "Coordinatore"
+    qualification: "Dottorando in Composizione e Performance Musicale"
+    institution: "Conservatorio di Ferrara"
+    specialization: "Coordina la progettazione metodologica e pedagogica, supervisiona la coerenza didattica dei percorsi."
+
+# Metodologie
+methodology:
+  - "Metodologie laboratoriali basate sull'osservazione e il feedback continuo"
+  - "Integrazione di strumenti acustici, elettrici e digitali"
+  - "Valorizzazione del patrimonio folclorico e delle musiche popolari"
+  - "Approcci inclusivi che rispettano i diversi stili di apprendimento"
+  - "Connessione tra espressione musicale e cittadinanza attiva"
+
+# Obiettivi
+objectives: "MEduLab si propone di consolidare e sviluppare metodologie didattiche musicali che favoriscano l'inclusione, la creatività e la partecipazione attiva, mantenendo un costante dialogo tra ricerca artistica contemporanea e pratica educativa."

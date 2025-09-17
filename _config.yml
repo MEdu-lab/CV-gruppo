@@ -1,0 +1,22 @@
+# Configurazione sito
+title: "MEduLab"
+description: "Gruppo di Ricerca Musicale ed Educativa"
+url: "https://VOSTRO-USERNAME.github.io"
+baseurl: "/medulab-presentation"
+
+# Jekyll settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins (GitHub Pages supporta automaticamente questi)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Esclusioni
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
