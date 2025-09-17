@@ -1,8 +1,9 @@
 # Configurazione sito
 title: "MEduLab"
 description: "Gruppo di Ricerca Musicale ed Educativa"
-url: "https://VOSTRO-USERNAME.github.io"
+url: "https://medu-lab.github.io"
 baseurl: "/medulab-presentation"
+
 
 # Jekyll settings
 markdown: kramdown
