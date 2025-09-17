@@ -19,7 +19,7 @@ experiences:
     project: "Laboratorio di musica d'insieme per scuola secondaria di I grado"
     participants: 32
     
-  - school: 'Scuola dell\'Infanzia "Il Girasole"'
+  - school: "Scuola dell'Infanzia Il Girasole"
     years: "2024"
     project: "Percorso di esplorazione sonora"
     participants: 28
@@ -38,7 +38,7 @@ team:
     specialization: "Sensibilità specifica per il rapporto tra musica e immagine, sviluppo di percorsi creativi che integrano narrazione sonora e costruzione di trame musicali."
     
   - name: "Giulio Romano De Mattia"
-    role: "Operatore"  
+    role: "Operatore"
     qualification: "Diplomato in Musica Elettronica"
     institution: "Conservatorio di Santa Cecilia, Roma"
     specialization: "Competenze avanzate in tecnologie musicali digitali, live electronics e composizione elettroacustica."
