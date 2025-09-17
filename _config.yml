@@ -4,6 +4,7 @@ description: "Gruppo di Ricerca Musicale ed Educativa"
 url: "https://VOSTRO-USERNAME.github.io"
 baseurl: "/medulab-presentation"
 
+
 # Jekyll settings
 markdown: kramdown
 highlighter: rouge
